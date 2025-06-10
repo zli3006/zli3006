@@ -1,1 +1,1 @@
-Hi, I'm Peter 👋 — a software engineer and entrepreneur passionate about building at the intersection of technology and the arts. Since my biggest projects are proprietary, I invite you to explore my work on my [portfolio site]("zpeterli.com")🌐
+Hi, I'm Peter 👋 — a software engineer and entrepreneur passionate about building at the intersection of technology and the arts. Since my biggest projects are proprietary, I invite you to explore my work on my [portfolio site]("zpeterli.com") 🌐
